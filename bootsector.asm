@@ -11,5 +11,5 @@ start:
         mov byte [es:0x12], 'W'
         mov byte [es:0x14], 'o'
         mov byte [es:0x16], 'r'
-        mov byte [es:0x18], 'l'
-        mov byte [es:0x20], 'd'
+        mov byte [es:0x17], 'l'
+        mov byte [es:0x18], 'd'
